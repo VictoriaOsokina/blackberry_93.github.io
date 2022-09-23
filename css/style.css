@@ -1,0 +1,90 @@
+
+* {
+    font-family: Georgia, serif;
+}
+
+body {
+    background: url(../img/фон.jpg) no-repeat fixed;
+}
+
+.top-oopt {
+    width: 100%;
+    height: 400px;
+}
+
+div {
+    border: 2px solid rgb(44, 11, 230);
+    background-color: #bccbff;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+p {
+    margin: 5px 20px;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: justify;
+    text-indent: 25px;
+}
+
+h1,
+h2,
+h3,
+ul {
+    font-family: Georgia, serif;
+    margin: 1.5em 20px 0 20px;
+    color:darkblue;
+}
+
+.h1 {
+    font-size: 32px;
+    text-shadow: 2px 2px #1c87c9;  
+}
+
+li {
+    font-size: 18px;
+    font-weight: 400;
+}
+table{
+    border: 3px solid #000;
+}
+th,
+tr,
+td {
+    margin: 5px 20px;
+    border: 1px solid black;
+}
+
+caption {
+    font-weight: 600;
+    color:darkblue;
+    text-shadow: 2px 2px #1c87c9;  
+    font-size: 110%;
+}
+
+.economica-table {
+    width: 85%;
+}
+
+figure {
+    width: 30em;
+    float: center;
+    text-align: center;
+}
+
+figure>img {
+    width: 100%
+}
+
+figcaption {
+    font-style: italic;
+    font-weight: 400;
+    text-align: center;
+    font-size:18px;
+}
+
+.dd {
+    margin-left: 60px;
+}
+
